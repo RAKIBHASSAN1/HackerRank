@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int t,a;
+scanf("%d\n",&t);
+while(t--)
+{
+ scanf("%d",&a);
+   printf("%d\n",a+1);
+
+}
+
+
+}
